@@ -31,6 +31,6 @@
   please see the url in channchealysek/portfolio-generator/README.md
 
   ## Questions
-  GitHub: https://github.com/channchealysek
-  Email: sek.channchealy@yahoo.com
+  ###GitHub: https://github.com/channchealysek
+  ###Email: sek.channchealy@yahoo.com
   
