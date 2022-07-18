@@ -48,12 +48,12 @@ function generateMarkdown(data) {
   return `
   ## Title
   ${data.Title}
+
   ## Description 
   ${data.Description}
 
   ## License 
   ${renderLicenseSection(data.licenseType)}
-
   ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
@@ -64,17 +64,19 @@ function generateMarkdown(data) {
   
   ## Installation
   ${data.Installation}
+
   ## Usage
   ${data.Usage}
-  ## License
-  ${data.License}
+
   ## Contributing
   ${data.Contributing}
+
   ## Tests
   ${data.Tests}
+
   ## Questions
   'GitHub: https://github.com/'+${data.Questions}
-  'Email: '+${data.Email}
+  'E-Mail: '+${data.Email}
   `;
 }
 
