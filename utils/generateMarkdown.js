@@ -37,8 +37,8 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   return `
-   ${renderLicenseBadge(license)}
-   ${renderLicenseLink(license)}
+   ${renderLicenseBadge(license)+"  "}
+   ${"`"+renderLicenseLink(license)+"`"}
   `;
 }
 
@@ -75,7 +75,7 @@ function generateMarkdown(data) {
   ${data.Tests}
 
   ## Questions
-  'GitHub: https://github.com/'+${data.Questions}
+  'GitHub: https://github.com/'+${data.Questions}+'  '
   'E-Mail: '+${data.Email}
   `;
 }
