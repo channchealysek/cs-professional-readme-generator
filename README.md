@@ -8,7 +8,7 @@
   ## License 
   
    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   #[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Table of Contents
   1. [Installation](#Installation)
@@ -31,6 +31,6 @@
   please see the url in channchealysek/portfolio-generator/README.md
 
   ## Questions
-  ###GitHub: https://github.com/channchealysek
-  ###Email: sek.channchealy@yahoo.com
+  GitHub: https://github.com/channchealysek
+  Email: sek.channchealy@yahoo.com
   
