@@ -36,7 +36,7 @@ const getPrompUser =  promptUser => {
         {
             type:"input",
             name: "Tests",
-            message: "What command should be use to run tests?",
+            message: "What command should be use to run test?",
         },
 
         {

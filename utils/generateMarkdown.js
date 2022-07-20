@@ -46,7 +46,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
 
   return `
-  '##' ${data.Title}
+  ## ${data.Title}
   ## License 
   ${renderLicenseSection(data.licenseType)}
   ## Description 
@@ -77,8 +77,8 @@ function generateMarkdown(data) {
   ${'```'}
 
   ## Questions
-  'If you have any questions please check my GitHub or contact me by e-mail bellow:'+'  '
-  'GitHub: https://github.com/'+${data.Questions}+'  '
+  'If you have any questions please check my GitHub or contact me by e-mail bellow:  '
+  'GitHub: https://github.com/'+${data.Questions} '  '
   'E-Mail: '+${data.Email}
   `;
 }

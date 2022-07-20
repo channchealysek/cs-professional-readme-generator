@@ -1,12 +1,12 @@
 
-  '##' README.md Professional Generator
+  ## Professional README Generator
   ## License 
   
    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
    `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   
   ## Description 
-  This project will let user easy to generate GitHub README.md for their own projects for upload to GitHub.
+  Let user easy to generate README for thier own project.
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -18,22 +18,22 @@
   
   ## Installation
   ```
-  npm i
+  Please see documentation and guide in my GitHub.
   ```
 
   ## Usage
   node index
 
   ## Contributing
-  No share.
+  use by your own.
 
   ## Tests
   ```
-  npm test
+  npm i
   ```
 
   ## Questions
-  'If you have any questions please check my GitHub or contact me by e-mail bellow:'+'  '
-  'GitHub: https://github.com/'+channchealysek+'  '
+  'If you have any questions please check my GitHub or contact me by e-mail bellow:  '
+  'GitHub: https://github.com/'+channchealysek '  '
   'E-Mail: '+sek.channchealy@yahoo.com
   
