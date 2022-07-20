@@ -6,7 +6,7 @@
    `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   
   ## Description 
-  Let user easy to generate README for thier own project.
+  Let user easy to generate README
 
   ## Table of Contents
   1. [Installation](#Installation)
@@ -18,14 +18,14 @@
   
   ## Installation
   ```
-  Please see documentation and guide in my GitHub.
+  npm i
   ```
 
   ## Usage
   node index
 
   ## Contributing
-  use by your own.
+  you by your own no share
 
   ## Tests
   ```
@@ -33,7 +33,7 @@
   ```
 
   ## Questions
-  'If you have any questions please check my GitHub or contact me by e-mail bellow:  '
-  'GitHub: https://github.com/'+channchealysek '  '
-  'E-Mail: '+sek.channchealy@yahoo.com
+  If you have any questions please check my GitHub or contact me by e-mail bellow:  
+  GitHub: https://github.com/ channchealysek  
+  E-Mail: sek.channchealy@yahoo.com
   

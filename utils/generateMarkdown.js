@@ -77,9 +77,9 @@ function generateMarkdown(data) {
   ${'```'}
 
   ## Questions
-  'If you have any questions please check my GitHub or contact me by e-mail bellow:  '
-  'GitHub: https://github.com/'+${data.Questions} '  '
-  'E-Mail: '+${data.Email}
+  If you have any questions please check my GitHub or contact me by e-mail bellow:  
+  GitHub: https://github.com/ ${data.Questions}  
+  E-Mail: ${data.Email}
   `;
 }
 
