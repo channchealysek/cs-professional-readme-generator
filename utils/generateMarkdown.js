@@ -55,9 +55,10 @@ function generateMarkdown(data) {
   ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
-  3. [Contributing](#Contributing)
-  4. [Tests](#Tests)
-  5. [Questions](#Questions)
+  3. [License](#License)
+  4. [Contributing](#Contributing)
+  5. [Tests](#Tests)
+  6. [Questions](#Questions)
   
   ## Installation
   ${'```'}

@@ -14,7 +14,7 @@ const getPrompUser =  promptUser => {
         {
             type:"input",
             name: "Description",
-            message: "Give a short description of your project",
+            message: "Please write a short description of your project",
             
         },
         {
@@ -36,7 +36,7 @@ const getPrompUser =  promptUser => {
         {
             type:"input",
             name: "Tests",
-            message: "Give test instructions",
+            message: "What command should be use to run tests?",
         },
 
         {

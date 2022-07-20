@@ -1,19 +1,20 @@
 
-  '##' Portfolio Generator
+  '##' README.md Professional Generator
   ## License 
   
-   ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)  
-   `[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)`
+   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+   `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   
   ## Description 
-  This project will make user easy generate contents from thier own GitHub display to webpage as thier Portfolio.
+  This project will let user easy to generate GitHub README.md for their own projects for upload to GitHub.
 
   ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
-  3. [Contributing](#Contributing)
-  4. [Tests](#Tests)
-  5. [Questions](#Questions)
+  3. [License](#License)
+  4. [Contributing](#Contributing)
+  5. [Tests](#Tests)
+  6. [Questions](#Questions)
   
   ## Installation
   ```
@@ -21,14 +22,14 @@
   ```
 
   ## Usage
-  npm run index
+  node index
 
   ## Contributing
-  Don't share this project.
+  No share.
 
   ## Tests
   ```
-  npm run test
+  npm test
   ```
 
   ## Questions
