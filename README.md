@@ -18,18 +18,18 @@
   
   ## Installation
   ```
-  npm i
+  npm i inquirer@8.2.4
   ```
 
   ## Usage
-  node index
+  go to local folder and run node index.js
 
   ## Contributing
-  you by your own no share
+  Don't share, but use your own.
 
   ## Tests
   ```
-  npm i
+  node index.js
   ```
 
   ## Questions
