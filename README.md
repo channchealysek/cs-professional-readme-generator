@@ -34,6 +34,6 @@
 
   ## Questions
   If you have any questions please check my GitHub or contact me by e-mail bellow:  
-  GitHub: https://github.com/ channchealysek  
+  GitHub: https://github.com/channchealysek  
   E-Mail: sek.channchealy@yahoo.com
   
