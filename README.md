@@ -6,7 +6,7 @@
 `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   
 ## Description 
-The application build to make user manage thier README.md as profession with software auto generate README.md using command-line ot get user information for their GitHub. This application using Node.js, and Inquirer.
+The application build to make user manage thier README.md as profession with software auto generate README.md using command-line to get user information for their GitHub. This application using Node.js, and Inquirer.
 
 ## Table of Contents
 1. [Installation](#Installation)
