@@ -1,39 +1,38 @@
 
-  ## Professional README Generator
+  # Professional README Generator
   ## License 
   
-   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
-   `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
   
-  ## Description 
-  Let user easy to generate README
+## Description 
+The application build to make user manage thier README.md as profession with software auto generate README.md using command-line ot get user information for their GitHub. This application using Node.js, and Inquirer.
 
-  ## Table of Contents
-  1. [Installation](#Installation)
-  2. [Usage](#Usage)
-  3. [License](#License)
-  4. [Contributing](#Contributing)
-  5. [Tests](#Tests)
-  6. [Questions](#Questions)
+## Table of Contents
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [License](#License)
+4. [Contributing](#Contributing)
+5. [Tests](#Tests)
+6. [Questions](#Questions)
   
-  ## Installation
-  ```
-  npm i inquirer@8.2.4
-  ```
+## Installation
+```
+npm i inquirer@8.2.4
+```
 
-  ## Usage
-  go to local folder and run node index.js
+## Usage
+go to local folder and run node index.js
 
-  ## Contributing
-  Don't share, but use your own.
+## Contributing
+Don't share, but use your own.
 
-  ## Tests
-  ```
-  node index.js
-  ```
+## Tests
+```
+node index.js
+```
 
-  ## Questions
-  If you have any questions please check my GitHub or contact me by e-mail bellow:  
-  GitHub: https://github.com/channchealysek  
-  E-Mail: sek.channchealy@yahoo.com
+## Questions
+If you have any questions please contact me by e-mail bellow:  
+ E-Mail: sek.channchealy@yahoo.com
   
